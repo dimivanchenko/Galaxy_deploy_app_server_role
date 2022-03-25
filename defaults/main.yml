@@ -1,0 +1,5 @@
+---
+# defaults file for deploy_app_server
+tomcat_ver: 9.0.59
+path_to_serv_file: /etc/systemd/system/
+user_name: ubuntu
